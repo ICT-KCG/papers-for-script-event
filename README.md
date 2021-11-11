@@ -1,7 +1,7 @@
 # papers-of-script-event
 Papers on script learning and event representation learning
 
-## Servey papers
+## Survey
 
 
 ## Dataset
