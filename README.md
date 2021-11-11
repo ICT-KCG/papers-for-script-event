@@ -7,7 +7,7 @@ Papers on script learning and event representation learning
 ## Dataset
 [Gigaword Corpus](https://catalog.ldc.upenn.edu/LDC2011T07)
 
-MCNC: Granroth-Wilding and Clark, **What happens next? event prediction using a compositional neural network model**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10344)][[code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/) and [modification](https://github.com/waltbai/MCPredictor)]
+MCNC: Granroth-Wilding and Clark, **What Happens Next? Event Prediction Using a Compositional Neural Network Model**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10344)][[code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/) and [modification](https://github.com/waltbai/MCPredictor)]
 
 
 
@@ -15,14 +15,14 @@ MCNC: Granroth-Wilding and Clark, **What happens next? event prediction using a 
 Schank and Abelson, **Scripts, plans, goals and understanding**, 1977
 
 ## Research line on script learning
-- Chambers and Jurafsky, **Unsupervised learning of narrative event chains**, ACL'2008. [[PDF](https://www.aclweb.org/anthology/P08-1090/)]
-- Chambers and Jurafsky, **Unsupervised learning of Narrative schemas and their participants**, ACL'2009. [[PDF](https://aclanthology.org/P09-1068/)]
+- Chambers and Jurafsky, **Unsupervised Learning of Narrative Event Chains**, ACL'2008. [[PDF](https://www.aclweb.org/anthology/P08-1090/)]
+- Chambers and Jurafsky, **Unsupervised Learning of Narrative Schemas and their Participants**, ACL'2009. [[PDF](https://aclanthology.org/P09-1068/)]
 - Jans, et al., **Skip n-grams and Ranking Functions for Predicting Script Events**, EACL'2012. [[PDF](https://aclanthology.org/E12-1034/)]
 - Balasubramanian, et al., **Generating Coherent Event Schemas at Scale**, EMNLP'2013. [[PDF](https://aclanthology.org/D13-1178/)]
 - Pichotta and Mooney, **Statistical Script Learning with Multi-Argument Events**, EACL'2014. [[PDF](https://aclanthology.org/E14-1024/)]
 - Rudinger, et al., **Script Induction as Language Modeling**, EMNLP'2015. [[PDF](https://aclanthology.org/D15-1195/)]
 - Pichotta and Mooney, **Learning Statistical Scripts with LSTM Recurrent Neural Networks**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10347)]
-- Granroth-Wilding and Clark, **What happens next? event prediction using a compositional neural network model**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10344)][[Code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)]
+- Granroth-Wilding and Clark, **What Happens Next? Event Prediction Using a Compositional Neural Network Model**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10344)][[Code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)]
 - Wang, et al., **Integrating Order Information and Event Relation for Script Event Prediction**, EMNLP'2017. [[PDF](https://aclanthology.org/D17-1006/)][[Code](https://github.com/wangzq870305/event_chain)]
 - Li, et al., **Constructing Narrative Event Evolutionary Graph for Script Event Prediction**, IJCAI'2018. [[PDF](https://www.ijcai.org/Proceedings/2018/0584)][[Code](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)]
 - Lee and Goldwasser, **Multi-Relational Script Learning for Discourse Relations**, ACL'2019. [[PDF](https://aclanthology.org/P19-1413/)][[Code](https://github.com/doug919/multi_relational_script_learning)]
