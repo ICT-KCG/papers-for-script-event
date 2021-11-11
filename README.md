@@ -2,7 +2,7 @@
 Papers on script learning and event representation learning
 
 ## Survey
-- Yi Han, Linbo Qiao, Jianming Zheng, Hefeng Wu, Dongsheng Li, Xiangke Liao, **A survey of script learning**, FITEE'2021. [[PDF](https://link.springer.com/article/10.1631/FITEE.2000347)]
+- Han, et al., **A survey of script learning**, FITEE'2021. [[PDF](https://link.springer.com/article/10.1631/FITEE.2000347)]
 
 ## Dataset
 [Gigaword Corpus](https://catalog.ldc.upenn.edu/LDC2011T07)
