@@ -1,6 +1,9 @@
 # papers-of-script-event
 Papers on script learning and event representation learning
 
+## Servey papers
+
+
 ## Dataset
 [Gigaword Corpus](https://catalog.ldc.upenn.edu/LDC2011T07)
 
