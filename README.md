@@ -9,6 +9,7 @@ Papers on script learning and event representation learning
 
 MCNC: Granroth-Wilding and Clark, **What Happens Next? Event Prediction Using a Compositional Neural Network Model**, AAAI'2016. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10344)][[code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/) and [modification](https://github.com/waltbai/MCPredictor)]
 
+Note: Lv (2019) and Lee (2019) use different tools (Stanford CoreNLP) with Granroth-Wilding (2016), so results are not directly comparable.
 
 
 ## Origin of script
