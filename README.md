@@ -11,7 +11,7 @@ MCNC: Granroth-Wilding and Clark, **What Happens Next? Event Prediction Using a 
 
 
 
-## Original of script
+## Origin of script
 Schank and Abelson, **Scripts, plans, goals and understanding**, 1977
 
 ## Research line on script learning
