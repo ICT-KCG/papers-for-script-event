@@ -32,7 +32,7 @@ Schank and Abelson, **Scripts, plans, goals and understanding**, 1977
 - Lv, et al., **Integrating External Event Knowledge for Script Learning**, COLING'2020. [[PDF](https://aclanthology.org/2020.coling-main.27/)]
 - Lee, et al., **Weakly-supervised modeling of contextualized event embedding for discourse relations**, EMNLP'2020 findings. [[PDF](https://aclanthology.org/2020.findings-emnlp.446/)][[Code](https://github.com/doug919/narrative_graph_emnlp2020)]
 - Bai, et al., **Integrating Deep Event-Level and Script-Level Information for Script Event Prediction**, EMNLP'2021. [[PDF](https://aclanthology.org/2021.emnlp-main.777/)][[Code](https://github.com/waltbai/MCPredictor)]
-- Wang, et al., **Incorporating Circumstances into Narrative Event Prediction**, EMNLP'2021 findings. [[PDF](https://aclanthology.org/2021.findings-emnlp.416/)][[Code]()https://github.com/Shichao-Wang/CircEvent]
+- Wang, et al., **Incorporating Circumstances into Narrative Event Prediction**, EMNLP'2021 findings. [[PDF](https://aclanthology.org/2021.findings-emnlp.416/)][[Code](https://github.com/Shichao-Wang/CircEvent)]
 
 ## Research line on event representation learning
 - Modi and Titov, **Learning Semantic Script Knowledge with Event Embeddings**, ICLR'2013 workshop. [[PDF](https://arxiv.org/abs/1312.5198)]
