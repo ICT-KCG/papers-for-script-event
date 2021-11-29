@@ -1,5 +1,5 @@
-# Papers of Script Event
-Papers on script learning and event representation learning
+# Papers for Script Event
+Papers for script learning and event representation learning
 
 ## Survey
 - Han, et al., **A survey of script learning**, FITEE'2021. [[PDF](https://link.springer.com/article/10.1631/FITEE.2000347)]
