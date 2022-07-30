@@ -36,7 +36,7 @@ Schank and Abelson, **Scripts, plans, goals and understanding**, 1977
 
 ## Research line on event representation learning
 - Modi and Titov, **Learning Semantic Script Knowledge with Event Embeddings**, ICLR'2013 workshop. [[PDF](https://arxiv.org/abs/1312.5198)]
-- Modi, **Event Embeddings for Semantic Script Modeling**, CoNLL2016. [[PDF](https://aclanthology.org/K16-1008/)]
+- Modi, **Event Embeddings for Semantic Script Modeling**, CoNLL'2016. [[PDF](https://aclanthology.org/K16-1008/)]
 - Weber, et al., **Event Representations with Tensor-Based Compositions**, AAAI'2018. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17126)][[Code](https://github.com/stonybrooknlp/event-tensors)]
 - Lee and Goldwasser, **FEEL: Featured Event Embedding Learning**, AAAI'2018. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11936)]
 - Ding, et al., **Event Representation Learning Enhanced with External Commonsense Knowledge**, EMNLP'2019. [[PDF](https://aclanthology.org/D19-1495/)][[Code](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)]
